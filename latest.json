@@ -1,7 +1,12 @@
 {
-  "versionCode": 82,
-  "versionName": "1.1-82-413eb4c",
-  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-82-c8a3f30b1fa4c2659811008d5ec6f5513e44baa8ffe1185046f157cd70c7b5d9.apk",
-  "sha256": "c8a3f30b1fa4c2659811008d5ec6f5513e44baa8ffe1185046f157cd70c7b5d9",
-  "releaseNotes": "A new SmartXpense Android update is available."
+  "versionCode": 83,
+  "versionName": "1.1-83-8ad01ce",
+  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-83-a346a7907d817811a7cdafce9dc391f6395b7cc15f1be42c2f4e9cdbe3372395.apk",
+  "sha256": "a346a7907d817811a7cdafce9dc391f6395b7cc15f1be42c2f4e9cdbe3372395",
+  "releaseNotes": "A new SmartXpense Android update is available.",
+  "highlights": [
+    "On a bill day, \"free to spend\" on Home no longer subtracts a bill you've already paid a second time, so the figure…",
+    "After an update, the \"new version\" card can now list what actually changed, instead of just saying there is an update.",
+    "Housekeeping so my last three changes pass the automatic checks and can reach your phone."
+  ]
 }
