@@ -1,12 +1,12 @@
 {
-  "versionCode": 85,
-  "versionName": "1.1-85-47d0562",
-  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-85-e130d932944b1d6fa9e0592cf079ae1e21a0e6d78ef41376e3c4a90f7fb00714.apk",
-  "sha256": "e130d932944b1d6fa9e0592cf079ae1e21a0e6d78ef41376e3c4a90f7fb00714",
+  "versionCode": 86,
+  "versionName": "1.1-86-7ac1893",
+  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-86-0fe5b717c7f1f59bee6d17387fb8b869c70117c4d99166554bb0f361fcccb315.apk",
+  "sha256": "0fe5b717c7f1f59bee6d17387fb8b869c70117c4d99166554bb0f361fcccb315",
   "releaseNotes": "A new SmartXpense Android update is available.",
   "highlights": [
-    "In dark mode the Investments summary card shows its amounts, and delete buttons keep readable text.",
-    "In dark mode the Subscriptions tabs and Track buttons show their labels instead of blank white pills.",
-    "In dark mode, bank-text warnings and status labels are readable and the Settings dialog button stays clear."
+    "The orange buttons and links and the green \"money in\" amounts are a little darker in light mode, so they are easier to…",
+    "Small grey text (categories, dates, hints) is darker and easier to read in light mode.",
+    "The app now switches to dark when your phone is in dark mode; you can still force Light or Dark in Settings."
   ]
 }
