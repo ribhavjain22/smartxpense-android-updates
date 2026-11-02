@@ -1,12 +1,12 @@
 {
-  "versionCode": 86,
-  "versionName": "1.1-86-7ac1893",
-  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-86-0fe5b717c7f1f59bee6d17387fb8b869c70117c4d99166554bb0f361fcccb315.apk",
-  "sha256": "0fe5b717c7f1f59bee6d17387fb8b869c70117c4d99166554bb0f361fcccb315",
+  "versionCode": 87,
+  "versionName": "1.1-87-1cbf789",
+  "apkUrl": "https://ribhavjain22.github.io/smartxpense-android-updates/apks/smartxpense-87-5f5ee5d687d3453aab7c78b48ff17b9759831992976484228fadb8d2bb6d3d64.apk",
+  "sha256": "5f5ee5d687d3453aab7c78b48ff17b9759831992976484228fadb8d2bb6d3d64",
   "releaseNotes": "A new SmartXpense Android update is available.",
   "highlights": [
-    "The orange buttons and links and the green \"money in\" amounts are a little darker in light mode, so they are easier to…",
-    "Small grey text (categories, dates, hints) is darker and easier to read in light mode.",
-    "The app now switches to dark when your phone is in dark mode; you can still force Light or Dark in Settings."
+    "When you import a bank statement, every payment now shows its full date with the year, so a wrong date stands out…",
+    "Importing a bank statement now tells you what will happen, and the list of payments to check fits your phone, with…",
+    "Adding a purchase is now a short, calm form: one button to fill it from a receipt, clear labels, and a proper on/off…"
   ]
 }
